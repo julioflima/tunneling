@@ -1,0 +1,12 @@
+{
+  "name": "tuneling",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "tunnel": "lt -p 8888"
+  },
+  "dependencies": {
+    "localtunnel": "^2.0.2"
+  }
+}
