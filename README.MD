@@ -1,4 +1,4 @@
-## Do it to use.
+# Do it to use
 
 1. Clone the repo.
 2. Enter into the dir.
